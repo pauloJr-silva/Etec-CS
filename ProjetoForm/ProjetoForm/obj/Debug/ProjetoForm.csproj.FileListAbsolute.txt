@@ -1,0 +1,8 @@
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoForm\ProjetoForm\bin\Debug\ProjetoForm.exe.config
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoForm\ProjetoForm\bin\Debug\ProjetoForm.exe
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoForm\ProjetoForm\bin\Debug\ProjetoForm.pdb
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoForm\ProjetoForm\obj\Debug\ProjetoForm.csprojResolveAssemblyReference.cache
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoForm\ProjetoForm\obj\Debug\ProjetoForm.MainForm.resources
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoForm\ProjetoForm\obj\Debug\ProjetoForm.csproj.GenerateResource.Cache
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoForm\ProjetoForm\obj\Debug\ProjetoForm.exe
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoForm\ProjetoForm\obj\Debug\ProjetoForm.pdb

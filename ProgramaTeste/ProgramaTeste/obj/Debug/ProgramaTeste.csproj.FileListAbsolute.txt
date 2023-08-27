@@ -1,0 +1,6 @@
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProgramaTeste\ProgramaTeste\bin\Debug\ProgramaTeste.exe.config
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProgramaTeste\ProgramaTeste\bin\Debug\ProgramaTeste.exe
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProgramaTeste\ProgramaTeste\bin\Debug\ProgramaTeste.pdb
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProgramaTeste\ProgramaTeste\obj\Debug\ProgramaTeste.csprojResolveAssemblyReference.cache
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProgramaTeste\ProgramaTeste\obj\Debug\ProgramaTeste.exe
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProgramaTeste\ProgramaTeste\obj\Debug\ProgramaTeste.pdb

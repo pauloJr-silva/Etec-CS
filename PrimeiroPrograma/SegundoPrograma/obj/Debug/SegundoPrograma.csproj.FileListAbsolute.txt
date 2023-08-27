@@ -1,0 +1,6 @@
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\PrimeiroPrograma\SegundoPrograma\bin\Debug\SegundoPrograma.exe.config
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\PrimeiroPrograma\SegundoPrograma\bin\Debug\SegundoPrograma.exe
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\PrimeiroPrograma\SegundoPrograma\bin\Debug\SegundoPrograma.pdb
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\PrimeiroPrograma\SegundoPrograma\obj\Debug\SegundoPrograma.csprojResolveAssemblyReference.cache
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\PrimeiroPrograma\SegundoPrograma\obj\Debug\SegundoPrograma.exe
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\PrimeiroPrograma\SegundoPrograma\obj\Debug\SegundoPrograma.pdb

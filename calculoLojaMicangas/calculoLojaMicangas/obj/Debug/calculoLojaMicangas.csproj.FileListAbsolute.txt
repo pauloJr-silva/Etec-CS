@@ -1,0 +1,16 @@
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\bin\Debug\calculoLojaMicangas.exe.config
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\bin\Debug\calculoLojaMicangas.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\bin\Debug\calculoLojaMicangas.pdb
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\obj\Debug\calculoLojaMicangas.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\obj\Debug\calculoLojaMicangas.MainForm.resources
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\obj\Debug\calculoLojaMicangas.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\obj\Debug\calculoLojaMicangas.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\obj\Debug\calculoLojaMicangas.pdb
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\bin\Debug\calculoLojaMicangas.exe.config
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\bin\Debug\calculoLojaMicangas.exe
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\bin\Debug\calculoLojaMicangas.pdb
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\obj\Debug\calculoLojaMicangas.csprojResolveAssemblyReference.cache
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\obj\Debug\calculoLojaMicangas.MainForm.resources
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\obj\Debug\calculoLojaMicangas.csproj.GenerateResource.Cache
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\obj\Debug\calculoLojaMicangas.exe
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\calculoLojaMicangas\calculoLojaMicangas\obj\Debug\calculoLojaMicangas.pdb
