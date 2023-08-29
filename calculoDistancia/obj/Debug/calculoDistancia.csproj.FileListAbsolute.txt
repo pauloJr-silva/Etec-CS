@@ -1,0 +1,8 @@
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoDistancia\calculoDistancia\bin\Debug\calculoDistancia.exe.config
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoDistancia\calculoDistancia\bin\Debug\calculoDistancia.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoDistancia\calculoDistancia\bin\Debug\calculoDistancia.pdb
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoDistancia\calculoDistancia\obj\Debug\calculoDistancia.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoDistancia\calculoDistancia\obj\Debug\calculoDistancia.MainForm.resources
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoDistancia\calculoDistancia\obj\Debug\calculoDistancia.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoDistancia\calculoDistancia\obj\Debug\calculoDistancia.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calculoDistancia\calculoDistancia\obj\Debug\calculoDistancia.pdb
