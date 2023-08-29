@@ -1,0 +1,16 @@
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calcularDias\calcularDias\obj\Debug\calcularDias.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calcularDias\calcularDias\obj\Debug\calcularDias.MainForm.resources
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calcularDias\calcularDias\obj\Debug\calcularDias.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calcularDias\calcularDias\bin\Debug\calcularDias.exe.config
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calcularDias\calcularDias\bin\Debug\calcularDias.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calcularDias\calcularDias\bin\Debug\calcularDias.pdb
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calcularDias\calcularDias\obj\Debug\calcularDias.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\calcularDias\calcularDias\obj\Debug\calcularDias.pdb
+C:\Users\Aluno Etec\Downloads\calcularDias\calcularDias\calcularDias\bin\Debug\calcularDias.exe.config
+C:\Users\Aluno Etec\Downloads\calcularDias\calcularDias\calcularDias\bin\Debug\calcularDias.exe
+C:\Users\Aluno Etec\Downloads\calcularDias\calcularDias\calcularDias\bin\Debug\calcularDias.pdb
+C:\Users\Aluno Etec\Downloads\calcularDias\calcularDias\calcularDias\obj\Debug\calcularDias.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Downloads\calcularDias\calcularDias\calcularDias\obj\Debug\calcularDias.MainForm.resources
+C:\Users\Aluno Etec\Downloads\calcularDias\calcularDias\calcularDias\obj\Debug\calcularDias.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Downloads\calcularDias\calcularDias\calcularDias\obj\Debug\calcularDias.exe
+C:\Users\Aluno Etec\Downloads\calcularDias\calcularDias\calcularDias\obj\Debug\calcularDias.pdb
