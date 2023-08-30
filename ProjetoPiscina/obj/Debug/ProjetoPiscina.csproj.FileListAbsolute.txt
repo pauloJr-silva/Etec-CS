@@ -1,0 +1,16 @@
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\obj\Debug\ProjetoPiscina.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\obj\Debug\ProjetoPiscina.MainForm.resources
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\obj\Debug\ProjetoPiscina.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\bin\Debug\ProjetoPiscina.exe.config
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\bin\Debug\ProjetoPiscina.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\bin\Debug\ProjetoPiscina.pdb
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\obj\Debug\ProjetoPiscina.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\obj\Debug\ProjetoPiscina.pdb
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\ProjetoPiscina\bin\Debug\ProjetoPiscina.exe.config
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\ProjetoPiscina\bin\Debug\ProjetoPiscina.exe
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\ProjetoPiscina\bin\Debug\ProjetoPiscina.pdb
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\ProjetoPiscina\obj\Debug\ProjetoPiscina.csprojResolveAssemblyReference.cache
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\ProjetoPiscina\obj\Debug\ProjetoPiscina.MainForm.resources
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\ProjetoPiscina\obj\Debug\ProjetoPiscina.csproj.GenerateResource.Cache
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\ProjetoPiscina\obj\Debug\ProjetoPiscina.exe
+C:\Users\Paulo_junior\Documents\SharpDevelop Projects\ProjetoPiscina\ProjetoPiscina\ProjetoPiscina\obj\Debug\ProjetoPiscina.pdb
