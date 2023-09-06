@@ -1,0 +1,8 @@
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\porjetoRadar\porjetoRadar\bin\Debug\porjetoRadar.exe.config
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\porjetoRadar\porjetoRadar\bin\Debug\porjetoRadar.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\porjetoRadar\porjetoRadar\bin\Debug\porjetoRadar.pdb
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\porjetoRadar\porjetoRadar\obj\Debug\porjetoRadar.csprojResolveAssemblyReference.cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\porjetoRadar\porjetoRadar\obj\Debug\porjetoRadar.MainForm.resources
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\porjetoRadar\porjetoRadar\obj\Debug\porjetoRadar.csproj.GenerateResource.Cache
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\porjetoRadar\porjetoRadar\obj\Debug\porjetoRadar.exe
+C:\Users\Aluno Etec\Documents\SharpDevelop Projects\porjetoRadar\porjetoRadar\obj\Debug\porjetoRadar.pdb
